@@ -1,0 +1,28 @@
+C:\Users\imner\source\repos\VRPO5\obj\Debug\VRPO5.csproj.AssemblyReference.cache
+C:\Users\imner\source\repos\VRPO5\obj\Debug\VRPO5.csproj.CoreCompileInputs.cache
+C:\Users\imner\source\repos\VRPO5\bin\Debug\VRPO5.exe.config
+C:\Users\imner\source\repos\VRPO5\bin\Debug\VRPO5.exe
+C:\Users\imner\source\repos\VRPO5\bin\Debug\VRPO5.pdb
+C:\Users\imner\source\repos\VRPO5\obj\Debug\VRPO5.exe
+C:\Users\imner\source\repos\VRPO5\obj\Debug\VRPO5.pdb
+C:\Users\imner\source\repos\VRPO6\obj\Debug\VRPO5.csproj.AssemblyReference.cache
+C:\Users\imner\source\repos\VRPO6\obj\Debug\VRPO5.csproj.CoreCompileInputs.cache
+C:\Users\imner\source\repos\VRPO6\obj\Debug\VRPO5.exe
+C:\Users\imner\source\repos\VRPO6\obj\Debug\VRPO5.pdb
+C:\Users\imner\source\repos\VRPO6\bin\Debug\VRPO5.exe.config
+C:\Users\imner\source\repos\VRPO6\bin\Debug\VRPO5.exe
+C:\Users\imner\source\repos\VRPO6\bin\Debug\VRPO5.pdb
+C:\Users\imner\source\repos\VRPO7\obj\Debug\VRPO5.csproj.AssemblyReference.cache
+C:\Users\imner\source\repos\VRPO7\obj\Debug\VRPO5.csproj.CoreCompileInputs.cache
+C:\Users\imner\source\repos\VRPO7\obj\Debug\VRPO5.exe
+C:\Users\imner\source\repos\VRPO7\obj\Debug\VRPO5.pdb
+C:\Users\imner\source\repos\VRPO7\bin\Debug\VRPO5.exe.config
+C:\Users\imner\source\repos\VRPO7\bin\Debug\VRPO5.exe
+C:\Users\imner\source\repos\VRPO7\bin\Debug\VRPO5.pdb
+G:\University\Введение в разработку ПО\БарышевВРПО5-8\VRPO7\bin\Debug\VRPO5.exe.config
+G:\University\Введение в разработку ПО\БарышевВРПО5-8\VRPO7\bin\Debug\VRPO5.exe
+G:\University\Введение в разработку ПО\БарышевВРПО5-8\VRPO7\bin\Debug\VRPO5.pdb
+G:\University\Введение в разработку ПО\БарышевВРПО5-8\VRPO7\obj\Debug\VRPO5.csproj.AssemblyReference.cache
+G:\University\Введение в разработку ПО\БарышевВРПО5-8\VRPO7\obj\Debug\VRPO5.csproj.CoreCompileInputs.cache
+G:\University\Введение в разработку ПО\БарышевВРПО5-8\VRPO7\obj\Debug\VRPO5.exe
+G:\University\Введение в разработку ПО\БарышевВРПО5-8\VRPO7\obj\Debug\VRPO5.pdb
